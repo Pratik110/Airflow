@@ -1,6 +1,0 @@
-{"timestamp":"2026-02-13T11:10:39.933165Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
-{"timestamp":"2026-02-13T11:10:39.934687Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/5_XCOMs_kwargs.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
-{"timestamp":"2026-02-13T11:10:39.980194Z","level":"info","event":"Using task instance","logger":"task.stdout"}
-{"timestamp":"2026-02-13T11:10:39.990102Z","level":"info","event":"new data is {'new_data': [1, 2, 3, 4, 5, 5]}","logger":"task.stdout"}
-{"timestamp":"2026-02-13T11:10:40.002987Z","level":"info","event":"sample data from first task is {'dummy': [8, 9, 10]}","logger":"task.stdout"}
-{"timestamp":"2026-02-13T11:10:40.002355Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":230}
